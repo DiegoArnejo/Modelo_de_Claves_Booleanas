@@ -29,8 +29,3 @@ combinando términos con operadores booleanos. Escribir `salir` para terminar.
 |---|---|
 | `nltk` | Tokenización y stopwords |
 | `string` / `collections` | Utilidades estándar de Python |
-
-## Ejemplo
-
-```
---- INDICE INVERTIDO
