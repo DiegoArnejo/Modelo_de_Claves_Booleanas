@@ -12,12 +12,9 @@ Implementación de un motor de búsqueda básico sobre una pequeña colección d
 
 ## Uso
 
-El programa solicita una consulta en formato:
-- `escritura` — busca documentos que contengan esa palabra
-- `egipcios and piramides` — documentos que contengan ambos términos
-- `escritura or democracia` — documentos que contengan alguno de los dos
-- `escritura not cuneiforme` — documentos con el primero pero no el segundo
-- `salir` — termina el programa
+Al ejecutar el programa, primero se genera y muestra el índice invertido y el mapa de calor de similitud. 
+Luego se abre un buscador interactivo donde el usuario puede ingresar consultas en lenguaje natural 
+combinando términos con operadores booleanos hasta escribir 'salir' para terminar.
 
 ## Librerías
 
